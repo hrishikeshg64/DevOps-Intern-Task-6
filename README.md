@@ -4,7 +4,7 @@
 This repository contains the deliverables for **Task 6** of the DevOps Internship. The objective of this task is to design a simple static HTML/CSS website and deploy it to the web for free using **GitHub Pages**. 
 
 * **Live Website Link:** [https://hrishikeshg64.github.io/DevOps-Intern-Task-6/]
-
+* **GitHub Repository:** [https://github.com/hrishikeshg64/DevOps-Intern-Task-6]
 ---
 
 ## 🛠️ Tools & Technologies Used
